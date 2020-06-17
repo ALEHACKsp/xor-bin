@@ -10,7 +10,7 @@
 int main(int argc , char* argv[])
 {
 	SetConsoleTitleA("xor-bin");
-    std::cout << "- starting xor-bin" << std::endl; 
+        std::cout << "- starting xor-bin" << std::endl; 
 
 	DeleteFileA("out");
 
